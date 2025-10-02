@@ -1,1 +1,1 @@
-# TypeScript---Next.js---Tailwind
+# TypeScript-Next.js-Tailwind
